@@ -3,7 +3,7 @@
   "name": "Gemini Nano Chat (Unofficial)",
   "version": "1.0.0",
   "author": "@thejjw",
-  "description": "Chat with Gemini Nano — a local AI running in your browser. This is an unofficial extension and is not affiliated with or endorsed by Google. No data sent to any server.",
+  "description": "Chat with Gemini Nano — a local AI running in your browser. This is an unofficial extension.",
   "permissions": [
     "storage",
     "sidePanel",
