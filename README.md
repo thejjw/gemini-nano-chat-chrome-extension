@@ -25,7 +25,7 @@ For full details, see the official [Chrome Built-in AI Documentation](https://de
 3. Enable "Developer mode" (top right).
 4. Click "Load unpacked" and select the `extension` folder.
 
-~~**Also available on the [Chrome Web Store](#)**~~ (not yet)  
+**Also available on the [Chrome Web Store](https://chromewebstore.google.com/detail/gemini-nano-chat-unoffici/gmakmkbabhpggomefcdggdncdbpbajpo)**
 _(Note: The Chrome Web Store version may not always have the latest updates.)_
 
 ## Usage
